@@ -1,0 +1,133 @@
+aside {
+    position: sticky;
+    top: 80px;
+}
+
+.card.mb-4 {
+    position: sticky;
+    top: 100px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: fill;
+}
+
+.footer-widget input#email {
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+ol.breadcrumb li a i {
+    color: #222;
+}.no-post-found {padding: 100px 0;}
+
+.footer-widget button {
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.list-group a {
+    text-decoration: none;
+    color: #000;
+}
+
+.single-sidebar ul {
+    margin: 0;
+    padding: 0;
+}
+
+.single-sidebar ul li {
+    list-style: none;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.single-sidebar ul li a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #222;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    padding: 5px 15px;
+    display: block;
+}
+
+.footericon li a i {
+    font-size: 25px;
+}
+
+.footer-widget ul {
+    margin: 0;
+    padding: 0;
+}
+
+.footer-widget ul li {
+    list-style: none;
+}
+
+.footer-widget ul li a {
+    text-transform: capitalize;
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.blog-share a {
+    margin-left: 10px;
+border: 1px solid #ddd;border-radius: 50px;width: 40px;height: 40px;text-align: center;line-height: 40px;}
+
+footer {
+    border-top: 1px solid #ddd;
+}
+
+ol.breadcrumb .breadcrumb-item {
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+    border-radius: 3px;
+    /* clip-path: polygon(35% 0, 60% 50%, 35% 100%, 0% 100%, 25% 50%, 0% 0%); */
+}
+
+.breadcrumb {
+    background: #f2f2f2;
+    padding: 8px 0;
+    margin-top: 15px;
+}
+
+.blog-details {
+    text-align: justify;
+}
+
+.bg-body p {
+    margin: 0;
+    padding: 10px;
+}
+
+
+.breadcrumb {
+    margin: 0;
+    /* justify-content: center; */
+    display: flex;
+    align-items: center;
+}
+
+.breadcrumb li {
+    padding: 0 5px;
+    margin: 0px 3px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.breadcrumb-item {
+    font-size: 18px;
+}
+
+.breadcrumb-item a {
+    text-decoration: none;
+}
